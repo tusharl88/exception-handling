@@ -2,6 +2,7 @@ package exceptionhandling;
 
 public class handlingexception {
 public static void main(String [] args){
+	// first part completed
 	// Arithmetic exception
 	int i,j,k=0;
 	i = 8;
