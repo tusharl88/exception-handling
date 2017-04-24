@@ -4,7 +4,7 @@ package exceptionhandling;
 public class handlingexception1 {
 	public static void main(String []args){
 		
-	// Arithmetic exception
+	// Arithmetic exception and lot more.
 		int i,j,k=0;
 		i = 8;
 		j= 0;
